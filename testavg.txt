@@ -1,0 +1,12 @@
+Student Name: Alex
+Test scores: 78.00 75.00 52.00 
+Average test score: 68.33 
+
+Student Name: john
+Test scores: 85.00 82.00 91.00 
+Average test score: 86.00 
+
+Student Name: shell
+Test scores: 85.00 92.00 81.00 
+Average test score: 86.00 
+
